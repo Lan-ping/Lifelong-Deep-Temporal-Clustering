@@ -1,0 +1,11 @@
+*.log
+*.temp
+/.vscode
+/bin
+/out
+/.idea
+/results
+/__pycache__
+/data_util/__pycache__
+/layer_util/__pycache__
+/weights
