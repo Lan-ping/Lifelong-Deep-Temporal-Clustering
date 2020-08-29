@@ -19,6 +19,7 @@ keras==2.2.4
 scikit-learn==0.22.2
 numpy==1.18.2
 tslearn==0.3.1
+statsmodels==0.12.0
 ```
 
 ### Running
